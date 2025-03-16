@@ -45,7 +45,7 @@ Below is a growing list of available cheatsheets:
 - Coming soon!
 
 ### Protocols
-- [HTTP Status Codes](./docs/protocols/HTTP-status-codes.md)
+- [HTTP Status Codes](./docs/protocols/http-status-codes.md)
 
 ### Tools
 - Coming soon!
